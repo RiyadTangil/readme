@@ -7,9 +7,9 @@ And I can design a variety of graphics, including web designing.
 Besides.
 Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 
- -  I’m currently learning React-Native and Next.js.
--  Ask me about anything about programming and coding. 
--  Fun fact: I can handle  any  programming related problem in few time.  
+ -  I have recently completed serveral projects width React js and now I’m      learning React-Native and PHP.
+- I love to learn and share my learned knowledge . So ask me  anything about programming and coding. 
+-  Fun fact: I never frustrated  with any  programming related problem.  
 
 <div align="center">
   
